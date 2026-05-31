@@ -17,7 +17,7 @@ I'm an indie game developer who makes games in Godot. Most of my (somewhat) fini
 
 A spellcasting game built around hunting bovine creatures to then use their milk as fuel for spells.
 
-<img src="Milkmanafat.png" alt="Milkmana screenshot" width="200" height="210"/> <img src="Milkmanatallcow.png" alt="Milkmana screenshot" width="200" height="200"/> <img src="Milkmanacow.png" alt="Milkmana screenshot" width="281" height="281"/> 
+<img src="Milkmanafat.png" alt="Milkmana screenshot" width="200" height="210"/> <img src="Milkmanacow.png" alt="Milkmana screenshot" width="281" height="281"/> <img src="Milkmanatallcow.png" alt="Milkmana screenshot" width="200" height="200"/> 
 
 ---
 
