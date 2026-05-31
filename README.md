@@ -2,7 +2,9 @@
 
 # Welcome to my githole
 
-I'm an indie game developer who makes games in Godot. Most of my (somewhat) finished work lives over on [itch.io](https://scye155.itch.io) — this is where the behind-the-scenes stuff ends up.
+I'm an indie game developer who makes games in Godot.<br>
+Most of my (somewhat) finished work lives over on [itch.io](https://scye155.itch.io)<br>
+— this is where the behind-the-scenes stuff ends up.
 
 Feel free to rummage around.
 
