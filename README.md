@@ -37,7 +37,8 @@ A spellcasting game built around hunting bovine creatures to then use their milk
 ---
 
 ## Stats
-
+<br>
+<br>
 <div align="center">
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=scye155&theme=dark&border_radius=21&background=0d1117&stroke=0d1117&border=0d1117&ring=e884b1&currStreakLabel=e884b1&fire=e884b1" alt="GitHub Streak" /></a>
