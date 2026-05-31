@@ -31,14 +31,16 @@ A spellcasting game built around hunting bovine creatures to then use their milk
 
 ---
 
-## Find my games
+## Play my games
 
 🕹️ [scye155.itch.io](https://scye155.itch.io)
 
 ---
 
+## Stats
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=scye155)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=scye155&theme=dark&border_radius=21&background=0d1117&stroke=0d1117&border=0d1117&ring=EB6AC8&currStreakLabel=EB6AC8&fire=EB6AC8" alt="GitHub Streak" /></a>
 
 </div>
