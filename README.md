@@ -10,8 +10,9 @@ Feel free to rummage around.
 
 ### Milkmana
 
-<img src="MilkmanaFat.png" alt="Milkmana screenshot" width="250"/>
 A spellcasting game built around hunting bovine creatures to then use their milk as fuel for spells.
+
+<img src="MilkmanaFat.png" alt="Milkmana screenshot" width="250"/>
 
 ---
 
@@ -27,3 +28,7 @@ A spellcasting game built around hunting bovine creatures to then use their milk
 ## Find my games
 
 **👉 [scye155.itch.io](https://scye155.itch.io)**
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=scye155)](https://git.io/streak-stats)
