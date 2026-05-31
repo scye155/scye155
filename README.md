@@ -1,8 +1,12 @@
+<div align="center">
+
 # Welcome to my githole
 
 I'm an indie game developer who makes games in Godot. Most of my (somewhat) finished work lives over on [itch.io](https://scye155.itch.io) — this is where the behind-the-scenes stuff ends up.
 
 Feel free to rummage around.
+
+</div>
 
 ---
 
@@ -27,8 +31,12 @@ A spellcasting game built around hunting bovine creatures to then use their milk
 
 ## Find my games
 
-**👉 [scye155.itch.io](https://scye155.itch.io)**
+🕹️ [scye155.itch.io](https://scye155.itch.io)
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=scye155)](https://git.io/streak-stats)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=scye155)
+
+</div>
