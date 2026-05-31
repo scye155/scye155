@@ -11,7 +11,7 @@ Feel free to rummage around.
 ### Milkmana
 
 <img src="MilkmanaFat.png" alt="Milkmana screenshot" width="250"/>
-A sort of spellcasting game built around hunting bovine creatures to then use their milk as fuel for spells.
+A spellcasting game built around hunting bovine creatures to then use their milk as fuel for spells.
 
 ---
 
