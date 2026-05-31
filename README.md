@@ -8,7 +8,7 @@ Feel free to rummage around.
 
 ## Currently working on
 
-Milkmana — 
+Milkmana — [Milkmana Picture](MilkmanaFat.png)
 
 ---
 
