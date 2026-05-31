@@ -8,7 +8,10 @@ Feel free to rummage around.
 
 ## Currently working on
 
-Milkmana — [Milkmana Picture](MilkmanaFat.png)
+### Milkmana
+
+<img src="MilkmanaFat.png" alt="Milkmana screenshot" width="250"/>
+A sort of spellcasting game built around hunting bovine creatures to then use their milk as fuel for spells.
 
 ---
 
